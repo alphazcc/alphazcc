@@ -1,20 +1,26 @@
-## 🙋 Hello!
+## 🙋 Welcome to my world!
 
-## This is Alpha!
+| [微信公众号 - 51爱电子](https://github.com/alphazcc/alphazcc/blob/main/images/LoveElectronics.png) | [哔哩哔哩 - Hello阿尔法](https://space.bilibili.com/506995858) | [CSDN - Hello阿尔法](https://blog.csdn.net/weixin_44550536/) | [知乎 - Hello阿尔法](https://www.zhihu.com/people/alpha-42-40-51/) | [稀土掘金 - Hello阿尔法](https://juejin.cn/user/488654029720605/) |
 
+<!-- 
 <div align="left">
-<a href="https://github.com/alphazcc/"><img src="https://img.shields.io/badge/GitHub-阿尔法-blue" /></a>&emsp;
 <a href=".\images\LoveElectronics.png"><img src="https://img.shields.io/badge/WeChat-公众号-07c160" /></a>&emsp;
+<a href="https://space.bilibili.com/506995858"><img src="https://img.shields.io/badge/BiliBili-哔哩哔哩-00AEEC" /></a>&emsp;
 <a href="https://blog.csdn.net/weixin_44550536/"><img src="https://img.shields.io/badge/CSDN-论坛-0088ff" /></a>&emsp;
 <a href="https://juejin.cn/user/488654029720605/"><img src="https://img.shields.io/badge/JueJin-论坛-c32136" /></a>&emsp;
-<a href="https://www.zhihu.com/people/alpha-42-40-51/"><img src="https://img.shields.io/badge/ZhiHu-社区-blue" /></a>&emsp;
+<a href="https://www.zhihu.com/people/alpha-42-40-51/"><img src="https://img.shields.io/badge/ZhiHu-社区-056DE8" /></a>&emsp;
 </div>
+ -->
+## ⚡ About My GitHub:
 
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=alphazcc&&show_icons=true&hide=contribs" alt="GitHub stats">&emsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphazcc&layout=compact" alt="Top Langs">&emsp;
-</div>
+<a href="https://github.com/alphazcc/alphazcc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphazcc&langs_count=3" />
+</a>
+<a href="https://github.com/alphazcc/alphazcc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alphazcc&show_icons=true&line_height=32&hide=contribs" alt="GitHub Stats" />
+</a>
 
+<!-- 
 ```c
 /**
  * Copyright (c) 2022-2023, HelloAlpha
@@ -30,3 +36,4 @@ kprintf(" / __  /  __/ / / /_/ /  / ___ |/ / /_/ / / / / /_/ /     \n");
 kprintf("/_/ /_/\\___/_/_/\\____/  /_/  |_/_/ .___/_/ /_/\\__,_/   \n");
 kprintf("                                /_/                       \n");
 ```
+ -->
