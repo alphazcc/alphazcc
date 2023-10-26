@@ -1,6 +1,10 @@
 ## 🙋 Welcome to my world!
+| Just | Click | It! |
+| :---: | :---: | :---: |
+| [微信公众号 - 51爱电子](https://github.com/alphazcc/alphazcc/blob/main/images/vx-gzh.jpg) | [微信视频号 - Hello阿尔法](https://github.com/alphazcc/alphazcc/blob/main/images/vx-sph.jpg) | [哔哩哔哩 - Hello阿尔法](https://space.bilibili.com/506995858) |
+| [知乎 - Hello阿尔法](https://www.zhihu.com/people/alpha-42-40-51/) | [CSDN博客 - Hello阿尔法](https://blog.csdn.net/weixin_44550536/) | [稀土掘金 - Hello阿尔法](https://juejin.cn/user/488654029720605/) |
 
-| [微信公众号 - 51爱电子](https://github.com/alphazcc/alphazcc/blob/main/images/LoveElectronics.png) | [哔哩哔哩 - Hello阿尔法](https://space.bilibili.com/506995858) | [CSDN - Hello阿尔法](https://blog.csdn.net/weixin_44550536/) | [知乎 - Hello阿尔法](https://www.zhihu.com/people/alpha-42-40-51/) | [稀土掘金 - Hello阿尔法](https://juejin.cn/user/488654029720605/) |
+![](./images/welcome.jpg)
 
 <!-- 
 <div align="left">
